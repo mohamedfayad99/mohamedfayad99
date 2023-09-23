@@ -1,5 +1,4 @@
-### Hi there 👋
-<h1>mohamed fayad</h1>
+<h1 style="text-align:center"> Hi, mohamed fayad</h1>
 <!--
 **mohamedfayad99/mohamedfayad99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
