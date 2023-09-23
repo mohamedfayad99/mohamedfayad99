@@ -1,5 +1,5 @@
 <div>
-<a href="https://github.com/mohamedfayad99" style="text-align:center; text-decoration:none;">
+<a href="https://github.com/mohamedfayad99">
   <h1>Hi, I'm Mohamed Fayad</h1>
 </a>
 </div>
