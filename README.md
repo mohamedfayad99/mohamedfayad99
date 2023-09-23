@@ -1,4 +1,6 @@
-<h1 style="text-align:center;"> Hi, mohamed fayad</h1>
+<div>
+  <a href="https://github.com/mohamedfayad99 > </a><h1 style="text-align:center; text-decoration:none;"> Hi, I'm Mohamed Fayad</h1>
+</div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
