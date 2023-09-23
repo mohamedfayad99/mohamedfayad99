@@ -1,5 +1,7 @@
 <div>
-  <a href="https://github.com/mohamedfayad99  style="text-align:center; text-decoration:none;"><h1> Hi, I'm Mohamed Fayad</h1> </a>
+<a href="https://github.com/mohamedfayad99" style="text-align:center; text-decoration:none;">
+  <h1>Hi, I'm Mohamed Fayad</h1>
+</a>
 </div>
 Here are some ideas to get you started:
 
